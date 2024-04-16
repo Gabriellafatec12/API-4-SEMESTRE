@@ -43,7 +43,9 @@ Confira abaixo o One Drive com arquivos levantados para o Projeto
 ## Tecnologias Utilizadas
   ### Produto 
   > Construção de uma série histórica em formato acessível que agregue os dados de movimentação de 2014 a 2023;
+
   > Modelo de projeção desenhado com base em regressão simples ou múltipla que permite explicar a prancha média operacional​;
+
   > Compartilhamento do código pelo Google COLAB​.
 
  ### Tecnológias Específicas/Apoio
@@ -66,8 +68,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-![product backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/113732348/eb21347e-f57f-40df-9219-d94bd1064e2e)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
+![product backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/4745a7d1-163a-45ec-994f-bc629aec521b)
+
+![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/1340abbe-c1e6-4f86-9ea5-c42f5a6c23e9)
 </div>
 
 Regras de Negócio
