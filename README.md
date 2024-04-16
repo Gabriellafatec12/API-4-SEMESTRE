@@ -6,7 +6,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 * [Projeto](#projeto-template)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros ](#Funcionalidadeseregistros)
+* [Funcionalidades e registros ](#funcionalidades-e-registros)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
