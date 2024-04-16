@@ -42,15 +42,18 @@ Confira abaixo o One Drive com arquivos levantados para o Projeto
 
 ## Tecnologias Utilizadas
   ### Produto 
-  > Dashboard e banco de dados em SQL para visualização dos itens descritos em OBJETIVO.
+  > Construção de uma série histórica em formato acessível que agregue os dados de movimentação de 2014 a 2023;
+  > Modelo de projeção desenhado com base em regressão simples ou múltipla que permite explicar a prancha média operacional​;
+  > Compartilhamento do código pelo Google COLAB​.
 
  ### Tecnológias Específicas/Apoio
  > Tecnologias utilizadas para entrega 
 - [Power BI](https://app.powerbi.com/groups/me/reports/87a6e750-11aa-4f6b-92f5-cfd3e496937e/ReportSection05d0b037b0e068b6a1cc?experience=power-bi)
-- [Python - Tratamento de Dados Inicial](https://colab.research.google.com/drive/1TDeykkyneoHOq4Prx3DKQm4ypGus7nJo?usp=sharing)
+- [Python - Tratamento de Dados Inicial]()
 - [Slack](https://slack-gt47279.slack.com/archives/C06Q9RQCTTP)
 - [Jira Software](https://datalog3.atlassian.net/jira/software/projects/DSCRUM/boards/2?atlOrigin=eyJpIjoiZjM4OGFmNzJjNGI1NDk1ZDhiZDg4MGFiMTI0ZTJkNTciLCJwIjoiaiJ9)
 - [GitHub](https://github.com/ricardohfs2012/API_3SEMESTRE.git)
+- [Office](https://www.microsoft.com/pt-BR/microsoft-365)
   
 # Cronograma das Sprints
 
