@@ -84,8 +84,8 @@ Requisitos funcionais
   
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
+- Metodologia ágil
+- Power BI / Jira / Slack
   
 User stories
 
@@ -93,64 +93,36 @@ User stories
 
 ## Sprint 0
 
-![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/64ead922-1d4b-498c-9474-5f07a0d3e546)
+![sprint backlog]()
 
 ## Sprint 1
 
-![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/6f8c700a-a617-4dc5-9ad7-0502194093b9))
+![sprint backlog]()
 
 ## Sprint 2
-![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/09a41faf-5e6b-43f8-ac25-39f5055be3c1)
+![sprint backlog]()
 
 ## Sprint 3
-![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/eb5c267c-da7e-4fed-b03a-c4a503f47fda)
+![sprint backlog]()
 
-
-## Sprint 0. Concepção do Projeto
-- [x] Coleta de perguntas do grupo;
-- [x] Criação do GitHub pessoal;
-- [x] Estruturação do GitHub;
-- [x] Entendimento da demanda do cliente;
-- [x] Atribuição das atividades para Sprint 1;
-- [x] Criação das atividades do backlog;
-- [x] Reunião do grupo.
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [x] Criação do protótipo dashboard - Parte 1;
-- [x] Criação do protótipo dashboard - Parte 2;
-- [x] Identificar os erros da planilha;
-- [x] Edição da planilha em Python;
-- [x] Tratamento dos dados em Excel;
-- [x] Pesquisa/Estudo do SQL - Parte 1;
-- [x] Atualização do site da empresa;
-- [x] Pesquisa/Estudo do Python;
-- [x] Pesquisa/Estudo do SQL - Parte 2;
-- [x] Entender a capacidade das fabricas;
-- [x] Identificar os outputs e inputs dos dados;
-- [x] Documentação para Sprint 1.
+- [x] Reunião - Início do Projeto;
+- [x] Planejar sequência das entregas;
+- [x] Comunicação com o cliente - Via Slack - Semana 13;
+- [x] Criar conta e canal de comunicação do grupo no Slack;
+- [x] Criar o projeto no Jira Software;
+- [x] Atribuição das atividades para Sprint 2;
+- [x] Reunião Sprint 1 - Dia 02/04;
+- [x] Comunicação com o cliente - Via Slack - Semana 14;
+- [x] Dados da API;
+- [x] Criar o backlog do produto;
+- [x] Criar repositório e Cronograma no GitHub;
+- [x] Documentação para Sprint 1;
+- [x] Apoio no desenvolvimento do relatório;
+- [ ] Realizar entrega na primeira parte do projeto - Sprint 1.
 
             
-## Sprint 2 . Implementação
-- [x] Criação do dashboard;
-- [x] Estruturação/otimização de dados no python;
-- [x] Documentação para Sprint 2;
-- [x] Workshop interno em Python;
-- [x] Workshop interno em Power BI;
-- [x] Criação e modelagem do banco de dados em SQL;
-- [x] Regionalizar (Cluster);
-- [x] Workshop interno do SQL.
-      
-## Sprint 3. Operacionalização
-- [x] Documentação para Sprint 3;
-- [x] Finalização do Dashboard;
-- [x] Finalização de todas as atividades referente ao projeto;
-- [x] Otimização de distribuição e de custos de rotas;
-- [x] Estrutura de banco de dados relacional;
-- [x] Tela de BI que mostre produtividade mensal do veiculos (relação entre outputs e inputs);
-- [x] Tela de BI com evolução dos custos por km de cada rota, filtrando por fábricas;
-- [x] Tela de BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas;
-
-
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
@@ -184,17 +156,19 @@ User stories
 </details>
 
 # Equipe
-![Equipe](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/35bf0b99-f6e5-45cc-8710-b9db34e538b0)
+![Equipe](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/34cd2235-7a47-4551-a297-f0de45ebdcc3)
 
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Thiago Faria    |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-pereira-594683174) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Thiagopfaria/API)              |
+| Product Owner |   Ricardo de Jesus    |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-moura-3381b821b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/RicardodeJesusMoura)              |
 | Scrum Master  | Felipe Leão |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-le%C3%A3o-ab11841b6) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/felipeleao1)     |
 |  Team Member  | Gabriella Santos|         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-fernanda-5473881a2) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
 |  Team Member  | Fhelipe Siqueira     |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fhelipesiqueira) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/fhelipesiqueira10)        |
 |  Team Member  | Mariana Oliveira      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-oliveira-b35a59235) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marioliveira2205)   |
-|  Team Member  | Ricardo de Jesus      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-moura-3381b821b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/RicardodeJesusMoura)   |
+|  Team Member  | Pedro Henrique      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antiochus/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)   |
 |  Team Member  | Ricardo Freitas      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-freitas-959663174) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ricardohfs2012)   |
+|  Team Member  | Thiago Faria      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-pereira-594683174) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Thiagopfaria/API)   |
+
 
 
