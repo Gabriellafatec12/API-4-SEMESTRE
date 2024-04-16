@@ -134,7 +134,7 @@ User stories
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Product Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
