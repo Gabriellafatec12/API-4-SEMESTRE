@@ -62,7 +62,7 @@ Confira abaixo o One Drive com arquivos levantados para o Projeto
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/ricardohfs2012/projects/2/views/5)
+#### Cronograma das Sprints[(clique aqui)](https://github.com/users/Gabriellafatec12/projects/1)
 
 # Backlog do produto
   
