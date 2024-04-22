@@ -39,6 +39,10 @@ Confira abaixo o One Drive com arquivos levantados para o Projeto
 
 <a href="https://fatecspgov-my.sharepoint.com/:f:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre?csf=1&web=1&e=fu3xRA"><img src="https://user-images.githubusercontent.com/114450758/204680162-f6940b1b-c19d-40b1-a808-de0334a9a109.png" width="100px"> </a>
 
+Confira abaixo o Jira Software com cronograma de cada sprint
+
+<a href="https://datalog3.atlassian.net/jira/software/projects/DSCRUM/boards/2"><img src="https://github.com/Gabriellafatec12/API-4-SEMESTRE/assets/114450758/70b41115-817d-42aa-949f-7d5a61024d8b" width="100px"> </a>
+
 
 ## Tecnologias Utilizadas
   ### Produto 
