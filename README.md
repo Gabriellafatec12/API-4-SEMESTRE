@@ -66,7 +66,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # Backlog do produto
   
-<div align="center">
+
     
 ![product backlog](https://github.com/Gabriellafatec12/API-4-SEMESTRE/assets/114450758/b6740c10-00ca-4c2c-8ea0-70378ee18855)
 
