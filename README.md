@@ -117,8 +117,31 @@ Requisitos não funcionais
 - [x] Criar repositório e Cronograma no GitHub;
 - [x] Documentação para Sprint 1;
 - [x] Apoio no desenvolvimento do relatório;
-- [ ] Realizar entrega na primeira parte do projeto - Sprint 1.
+- [x] Realizar entrega na primeira parte do projeto - Sprint 1.
 
+## Sprint 2. Iniciação de análises e melhorias na base de dados
+- [x] Reunião - Sprint 2;
+- [ ] Escolha do porto para análise;
+- [ ] Comunicação com o cliente - Via Slack - Semana 15;
+- [ ] Filtrar os dados com as informações solicitadas pelo cliente;
+- [ ] Realizar o teste do passo-a-passo do código do Python;
+- [ ] Verificar o andamento d projeto - Sprint 2;
+- [ ] Comunicação com o cliente - Via Slack - Semana 16;
+- [ ] Disponibilizar arquivo CSV com os dados filtrados;
+- [ ] Analisar evolução pela série histórica e prancha média operacional (ton./hora);
+- [ ] Comunicação com o cliente - Via Slack - Semana 17;
+- [ ] Comunicação do projeto - Via Slack;
+- [ ] Criar um passo-a-passo explicativo sobre o código Python relacionado ao projeto;
+- [ ] Iniciar interface visual para análise de dados;
+- [ ] Finalizar interface visual para análise de dados;
+- [ ] Disponbilizar código do Python pelo Colab;
+- [ ] Relatório - Sprint 2;
+- [ ] Atualização do GitHub - Sprint 2;
+- [ ] Reunião para atribuição das atividades da Sprint 3;
+- [ ] Tratar os dados pelo Python;
+- [ ] Juntar as duas bases de dados disponiblizadas;
+- [ ] Criar código em Python para tratamento de dados;
+- [ ] Entrega da Sprint 2;
             
 # Competências desenvolvidas
 
