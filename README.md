@@ -68,10 +68,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-![product backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/4745a7d1-163a-45ec-994f-bc629aec521b)
+![product backlog](https://github.com/Gabriellafatec12/API-4-SEMESTRE/assets/114450758/b6740c10-00ca-4c2c-8ea0-70378ee18855)
 
-![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/1340abbe-c1e6-4f86-9ea5-c42f5a6c23e9)
-</div>
 
 Regras de Negócio
 - 
