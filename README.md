@@ -125,7 +125,7 @@ Requisitos não funcionais
 - [ ] Comunicação com o cliente - Via Slack - Semana 15;
 - [ ] Filtrar os dados com as informações solicitadas pelo cliente;
 - [ ] Realizar o teste do passo-a-passo do código do Python;
-- [ ] Verificar o andamento d projeto - Sprint 2;
+- [ ] Verificar o andamento do projeto - Sprint 2;
 - [ ] Comunicação com o cliente - Via Slack - Semana 16;
 - [ ] Disponibilizar arquivo CSV com os dados filtrados;
 - [ ] Analisar evolução pela série histórica e prancha média operacional (ton./hora);
@@ -155,7 +155,7 @@ Requisitos não funcionais
 - [ ] Relatório - Sprint 3;
 - [ ] Atualização do GitHub - Sprint 3;
 - [ ] Reunião para atribuição das atividades da Sprint 4;
-- [ ] Verificar andamento do projeto - Sprint 3
+- [ ] Verificar andamento do projeto - Sprint 3;
 - [ ] Entrega da Sprint 3.
 
 ## Sprint 4. Produto final e ranking de terminais 
@@ -170,7 +170,7 @@ Requisitos não funcionais
 - [ ] Relatório - Sprint 4;
 - [ ] Atualização do GitHub - Sprint 4;
 - [ ] Reunião e preparação para Feira de Soluções;
-- [ ] Verificar andamento do projeto - Sprint 4
+- [ ] Verificar andamento do projeto - Sprint 4;
 - [ ] Entrega da Sprint 4.
             
 # Competências desenvolvidas
@@ -181,12 +181,12 @@ Requisitos não funcionais
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Product Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Product Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Markdown | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Git Projects | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
  
 </details>
 
@@ -196,12 +196,12 @@ Requisitos não funcionais
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
 </details>
 
