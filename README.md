@@ -141,7 +141,37 @@ Requisitos não funcionais
 - [ ] Tratar os dados pelo Python;
 - [ ] Juntar as duas bases de dados disponiblizadas;
 - [ ] Criar código em Python para tratamento de dados;
-- [ ] Entrega da Sprint 2;
+- [ ] Entrega da Sprint 2.
+
+## Sprint 3. Elaboração de lei de tendência por métodos estatísticos 
+- [ ] Reunião - Sprint 3;
+- [ ] Criar lei de tendência por regressão linear e analisar se os dados estão crescentes, decresecentes ou estagnados;
+- [ ] Criar histograma com a análise de tempo de operação no berço ao longo da série histórica;
+- [ ] Análise usando métodos estatísticos;
+- [ ] Comunicação com o cliente - Via Slack - Semana 18;
+- [ ] Comunicação com o cliente - Via Slack - Semana 19;
+- [ ] Comunicação com o cliente - Via Slack - Semana 20;
+- [ ] Comunicação do projeto - Via Slack;
+- [ ] Relatório - Sprint 3;
+- [ ] Atualização do GitHub - Sprint 3;
+- [ ] Reunião para atribuição das atividades da Sprint 4;
+- [ ] Verificar andamento do projeto - Sprint 3
+- [ ] Entrega da Sprint 3.
+
+## Sprint 4. Produto final e ranking de terminais 
+- [ ] Reunião - Sprint 4;
+- [ ] Análise dos 10 principais terminais de granéis do Brasil;
+- [ ] Entregar método DEA em Excel;
+- [ ] Ranking de eficiência dos terminais;
+- [ ] Comunicação com o cliente - Via Slack - Semana 21;
+- [ ] Comunicação com o cliente - Via Slack - Semana 22;
+- [ ] Comunicação com o cliente - Via Slack - Semana 23;
+- [ ] Comunicação do projeto - Via Slack;
+- [ ] Relatório - Sprint 4;
+- [ ] Atualização do GitHub - Sprint 4;
+- [ ] Reunião e preparação para Feira de Soluções;
+- [ ] Verificar andamento do projeto - Sprint 4
+- [ ] Entrega da Sprint 4.
             
 # Competências desenvolvidas
 
