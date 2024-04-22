@@ -85,7 +85,6 @@ Requisitos não funcionais
 - Metodologia ágil
 - Power BI / Jira / Slack
   
-User stories
 
 # Burndown
 
