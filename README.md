@@ -54,7 +54,7 @@ Confira abaixo o Jira Software com cronograma de cada sprint
 
  ### Tecnológias Específicas/Apoio
  > Tecnologias utilizadas para entrega 
-- [Power BI]()
+- [Power BI](https://app.powerbi.com/links/mFpaGkd2QH?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
 - [Python - Tratamento de Dados Inicial]()
 - [Slack](https://slack-gt47279.slack.com/archives/C06Q9RQCTTP)
 - [Jira Software](https://datalog3.atlassian.net/jira/software/projects/DSCRUM/boards/2?atlOrigin=eyJpIjoiZjM4OGFmNzJjNGI1NDk1ZDhiZDg4MGFiMTI0ZTJkNTciLCJwIjoiaiJ9)
