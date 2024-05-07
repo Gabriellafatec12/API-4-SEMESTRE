@@ -125,25 +125,25 @@ Requisitos não funcionais
 ## Sprint 2. Iniciação de análises e melhorias na base de dados
 - [x] Reunião - Sprint 2;
 - [ ] Escolha do porto para análise;
-- [ ] Comunicação com o cliente - Via Slack - Semana 15;
+- [x] Comunicação com o cliente - Via Slack - Semana 15;
 - [ ] Filtrar os dados com as informações solicitadas pelo cliente;
 - [ ] Realizar o teste do passo-a-passo do código do Python;
 - [ ] Verificar o andamento do projeto - Sprint 2;
-- [ ] Comunicação com o cliente - Via Slack - Semana 16;
-- [ ] Disponibilizar arquivo CSV com os dados filtrados;
+- [x] Comunicação com o cliente - Via Slack - Semana 16;
+- [x] Disponibilizar arquivo CSV com os dados filtrados;
 - [ ] Analisar evolução pela série histórica e prancha média operacional (ton./hora);
-- [ ] Comunicação com o cliente - Via Slack - Semana 17;
+- [x] Comunicação com o cliente - Via Slack - Semana 17;
 - [ ] Comunicação do projeto - Via Slack;
 - [ ] Criar um passo-a-passo explicativo sobre o código Python relacionado ao projeto;
 - [ ] Iniciar interface visual para análise de dados;
 - [ ] Finalizar interface visual para análise de dados;
 - [ ] Disponbilizar código do Python pelo Colab;
 - [ ] Relatório - Sprint 2;
-- [ ] Atualização do GitHub - Sprint 2;
+- [x] Atualização do GitHub - Sprint 2;
 - [ ] Reunião para atribuição das atividades da Sprint 3;
-- [ ] Tratar os dados pelo Python;
-- [ ] Juntar as duas bases de dados disponiblizadas;
-- [ ] Criar código em Python para tratamento de dados;
+- [x] Tratar os dados pelo Python;
+- [x] Juntar as duas bases de dados disponiblizadas;
+- [x] Criar código em Python para tratamento de dados;
 - [ ] Entrega da Sprint 2.
 
 ## Sprint 3. Elaboração de lei de tendência por métodos estatísticos 
