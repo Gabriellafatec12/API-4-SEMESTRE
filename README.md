@@ -22,8 +22,8 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 12/03/2024 | concluído | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01| 16/04/2024 | concluído | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:w:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre/Co%CC%81pia%20de%20RELATORIO%204%20SEM.docx?d=w0dfb4209d8774a4e98eca91317bf4a66&csf=1&web=1&e=bKVr5x) | 
-|02| 07/05/2024 | em andamento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 28/05/2024 | não iniciado |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02| 07/05/2024 | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 28/05/2024 | em andamento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |04| 18/06/2024 | não iniciado |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções | 27/06/2024 | não iniciado |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
@@ -124,27 +124,27 @@ Requisitos não funcionais
 
 ## Sprint 2. Iniciação de análises e melhorias na base de dados
 - [x] Reunião - Sprint 2;
-- [ ] Escolha do porto para análise;
+- [x] Escolha do porto para análise;
 - [x] Comunicação com o cliente - Via Slack - Semana 15;
-- [ ] Filtrar os dados com as informações solicitadas pelo cliente;
-- [ ] Realizar o teste do passo-a-passo do código do Python;
-- [ ] Verificar o andamento do projeto - Sprint 2;
+- [x] Filtrar os dados com as informações solicitadas pelo cliente;
+- [x] Realizar o teste do passo-a-passo do código do Python;
+- [x] Verificar o andamento do projeto - Sprint 2;
 - [x] Comunicação com o cliente - Via Slack - Semana 16;
 - [x] Disponibilizar arquivo CSV com os dados filtrados;
-- [ ] Analisar evolução pela série histórica e prancha média operacional (ton./hora);
+- [x] Analisar evolução pela série histórica e prancha média operacional (ton./hora);
 - [x] Comunicação com o cliente - Via Slack - Semana 17;
-- [ ] Comunicação do projeto - Via Slack;
-- [ ] Criar um passo-a-passo explicativo sobre o código Python relacionado ao projeto;
-- [ ] Iniciar interface visual para análise de dados;
-- [ ] Finalizar interface visual para análise de dados;
-- [ ] Disponbilizar código do Python pelo Colab;
-- [ ] Relatório - Sprint 2;
+- [x] Comunicação do projeto - Via Slack;
+- [x] Criar um passo-a-passo explicativo sobre o código Python relacionado ao projeto;
+- [x] Iniciar interface visual para análise de dados;
+- [x] Finalizar interface visual para análise de dados;
+- [x] Disponbilizar código do Python pelo Colab;
+- [x] Relatório - Sprint 2;
 - [x] Atualização do GitHub - Sprint 2;
-- [ ] Reunião para atribuição das atividades da Sprint 3;
+- [x] Reunião para atribuição das atividades da Sprint 3;
 - [x] Tratar os dados pelo Python;
 - [x] Juntar as duas bases de dados disponiblizadas;
 - [x] Criar código em Python para tratamento de dados;
-- [ ] Entrega da Sprint 2.
+- [x] Entrega da Sprint 2.
 
 ## Sprint 3. Elaboração de lei de tendência por métodos estatísticos 
 - [ ] Reunião - Sprint 3;
