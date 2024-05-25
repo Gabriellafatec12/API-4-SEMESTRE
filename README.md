@@ -46,7 +46,9 @@ Confira abaixo o Jira Software com cronograma de cada sprint
 
 ## Tecnologias Utilizadas
   ### Produto 
-  > Construção de uma série histórica em formato acessível que agregue os dados de movimentação de 2014 a 2023;
+  > Construção de uma série histórica em formato acessível que agregue os dados de movimentação de 2019 a 2024;
+
+  > Dashboard de visualização com: Variação da Prancha média operacional dos Complexos Portuários que movimentaram embarque de milho e análise dos tempos com foco em embarques. Construção de um gráfico de linha com a   prancha média ao longo do tempo filtrando por complexos e berços;
 
   > Modelo de projeção desenhado com base em regressão simples ou múltipla que permite explicar a prancha média operacional​;
 
@@ -71,7 +73,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 
     
-![product backlog](https://github.com/Gabriellafatec12/API-4-SEMESTRE/assets/114450758/b6740c10-00ca-4c2c-8ea0-70378ee18855)
+![product backlog](https://github.com/Gabriellafatec12/API-4-SEMESTRE/assets/114450758/c635f417-2035-4825-a03e-c9feedc1123c)
 
 
 Regras de Negócio
@@ -147,19 +149,19 @@ Requisitos não funcionais
 - [x] Entrega da Sprint 2.
 
 ## Sprint 3. Elaboração de lei de tendência por métodos estatísticos 
-- [ ] Reunião - Sprint 3;
-- [ ] Criar lei de tendência por regressão linear e analisar se os dados estão crescentes, decresecentes ou estagnados;
-- [ ] Criar histograma com a análise de tempo de operação no berço ao longo da série histórica;
-- [ ] Análise usando métodos estatísticos;
-- [ ] Comunicação com o cliente - Via Slack - Semana 18;
-- [ ] Comunicação com o cliente - Via Slack - Semana 19;
-- [ ] Comunicação com o cliente - Via Slack - Semana 20;
-- [ ] Comunicação do projeto - Via Slack;
-- [ ] Relatório - Sprint 3;
-- [ ] Atualização do GitHub - Sprint 3;
-- [ ] Reunião para atribuição das atividades da Sprint 4;
-- [ ] Verificar andamento do projeto - Sprint 3;
-- [ ] Entrega da Sprint 3.
+- [x] Reunião - Sprint 3;
+- [x] Criar lei de tendência por regressão linear e analisar se os dados estão crescentes, decresecentes ou estagnados;
+- [x] Criar histograma com a análise de tempo de operação no berço ao longo da série histórica;
+- [x] Análise usando métodos estatísticos;
+- [x] Comunicação com o cliente - Via Slack - Semana 18;
+- [x] Comunicação com o cliente - Via Slack - Semana 19;
+- [x] Comunicação com o cliente - Via Slack - Semana 20;
+- [x] Comunicação do projeto - Via Slack;
+- [x] Relatório - Sprint 3;
+- [x] Atualização do GitHub - Sprint 3;
+- [x] Reunião para atribuição das atividades da Sprint 4;
+- [x] Verificar andamento do projeto - Sprint 3;
+- [x] Entrega da Sprint 3.
 
 ## Sprint 4. Produto final e ranking de terminais 
 - [ ] Reunião - Sprint 4;
