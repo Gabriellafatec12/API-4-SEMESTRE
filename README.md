@@ -102,7 +102,7 @@ Requisitos não funcionais
 ![sprint backlog](https://github.com/Gabriellafatec12/API-4-SEMESTRE/assets/114450758/3d746f22-f68d-4a3f-8c30-a9bfe0638678)
 
 ## Sprint 3
-![sprint backlog](https://github.com/Gabriellafatec12/API-4-SEMESTRE/assets/114450758/d33d98ba-ffb2-4290-992c-b12e154d7bbb)
+![sprint backlog](https://github.com/Gabriellafatec12/API-4-SEMESTRE/assets/114450758/4d5465d4-f0ff-44ec-af3a-b14da96725e2)
 
 ## Sprint 4
 ![sprint backlog](https://github.com/Gabriellafatec12/API-4-SEMESTRE/assets/114450758/d33d98ba-ffb2-4290-992c-b12e154d7bbb)
