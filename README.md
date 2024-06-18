@@ -24,8 +24,8 @@ Sprint | Previsão | Status| Histórico|
 |01| 16/04/2024 | concluído | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:b:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre/RELAT%C3%93RIO/Relatorio%20API%204S.pdf?csf=1&web=1&e=WkHkJM) | 
 |02| 07/05/2024 | concluído |[Ver Relatório](https://fatecspgov-my.sharepoint.com/:b:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre/RELAT%C3%93RIO/Relatorio%20API%204S.pdf?csf=1&web=1&e=WkHkJM) | 
 |03| 28/05/2024 | concluído |[Ver Relatório](https://fatecspgov-my.sharepoint.com/:b:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre/RELAT%C3%93RIO/Relatorio%20API%204S.pdf?csf=1&web=1&e=WkHkJM) | 
-|04| 18/06/2024 | em andamento |[Ver Relatório](https://fatecspgov-my.sharepoint.com/:b:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre/RELAT%C3%93RIO/Relatorio%20API%204S.pdf?csf=1&web=1&e=WkHkJM)  | 
-|Feira de Soluções | 27/06/2024 | não iniciado |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|04| 18/06/2024 | concluído |[Ver Relatório](https://fatecspgov-my.sharepoint.com/:b:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre/RELAT%C3%93RIO/Relatorio%20API%204S.pdf?csf=1&web=1&e=WkHkJM)  | 
+|Feira de Soluções | 27/06/2024 | em andamento |[Ver Relatório](https://fatecspgov-my.sharepoint.com/:b:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre/RELAT%C3%93RIO/Relatorio%20API%204S.pdf?csf=1&web=1&e=WkHkJM) | 
 
 # Objetivo do Projeto
 Este projeto tem como objetivo fazer uma análise do sistema portuário, visando:
@@ -48,7 +48,7 @@ Confira abaixo o Jira Software com cronograma de cada sprint
   ### Produto 
   > Construção de uma série histórica em formato acessível que agregue os dados de movimentação de 2019 a 2024;
 
-  > Dashboard de visualização com: Variação da Prancha média operacional dos Complexos Portuários que movimentaram embarque de milho e análise dos tempos com foco em embarques. Construção de um gráfico de linha com a   prancha média ao longo do tempo filtrando por complexos e berços;
+  > Dashboard de visualização com: Variação da Prancha média operacional dos Complexos Portuários que movimentaram embarque de milho e análise dos tempos com foco em embarques. Construção de um gráfico de linha com a prancha média ao longo do tempo filtrando por complexos e berços;
 
   > Modelo de projeção desenhado com base em regressão simples ou múltipla que permite explicar a prancha média operacional​;
 
@@ -61,6 +61,7 @@ Confira abaixo o Jira Software com cronograma de cada sprint
 - [Slack](https://slack-gt47279.slack.com/archives/C06Q9RQCTTP)
 - [Jira Software](https://datalog3.atlassian.net/jira/software/projects/DSCRUM/boards/2?atlOrigin=eyJpIjoiZjM4OGFmNzJjNGI1NDk1ZDhiZDg4MGFiMTI0ZTJkNTciLCJwIjoiaiJ9)
 - [GitHub](https://github.com/Gabriellafatec12/API-4-SEMESTRE/blob/4ca73ee9f725c02e6e3a496b393b1487782f8520/README.md)
+- [Médoto DEA](
   
 # Cronograma das Sprints
 
@@ -164,19 +165,19 @@ Requisitos não funcionais
 - [x] Entrega da Sprint 3.
 
 ## Sprint 4. Produto final e ranking de terminais 
-- [ ] Reunião - Sprint 4;
-- [ ] Análise dos 10 principais terminais de granéis do Brasil;
-- [ ] Entregar método DEA em Excel;
-- [ ] Ranking de eficiência dos terminais;
-- [ ] Comunicação com o cliente - Via Slack - Semana 21;
-- [ ] Comunicação com o cliente - Via Slack - Semana 22;
-- [ ] Comunicação com o cliente - Via Slack - Semana 23;
-- [ ] Comunicação do projeto - Via Slack;
-- [ ] Relatório - Sprint 4;
-- [ ] Atualização do GitHub - Sprint 4;
-- [ ] Reunião e preparação para Feira de Soluções;
-- [ ] Verificar andamento do projeto - Sprint 4;
-- [ ] Entrega da Sprint 4.
+- [x] Reunião - Sprint 4;
+- [x] Análise dos 10 principais terminais de granéis do Brasil;
+- [x] Entregar método DEA em Excel;
+- [x] Ranking de eficiência dos terminais;
+- [x] Comunicação com o cliente - Via Slack - Semana 21;
+- [x] Comunicação com o cliente - Via Slack - Semana 22;
+- [x] Comunicação com o cliente - Via Slack - Semana 23;
+- [x] Comunicação do projeto - Via Slack;
+- [x] Relatório - Sprint 4;
+- [x] Atualização do GitHub - Sprint 4;
+- [x] Reunião e preparação para Feira de Soluções;
+- [x] Verificar andamento do projeto - Sprint 4;
+- [x] Entrega da Sprint 4.
             
 # Competências desenvolvidas
 
