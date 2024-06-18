@@ -57,7 +57,7 @@ Confira abaixo o Jira Software com cronograma de cada sprint
  ### Tecnológias Específicas/Apoio
  > Tecnologias utilizadas para entrega 
 - [Power BI](https://app.powerbi.com/links/mFpaGkd2QH?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
-- [Python - Tratamento de Dados Inicial]()
+- [Python - Tratamento de Dados Inicial](https://fatecspgov-my.sharepoint.com/:u:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre/PYTHON/sprint4final.ipynb?csf=1&web=1&e=6KEmCE)
 - [Slack](https://slack-gt47279.slack.com/archives/C06Q9RQCTTP)
 - [Jira Software](https://datalog3.atlassian.net/jira/software/projects/DSCRUM/boards/2?atlOrigin=eyJpIjoiZjM4OGFmNzJjNGI1NDk1ZDhiZDg4MGFiMTI0ZTJkNTciLCJwIjoiaiJ9)
 - [GitHub](https://github.com/Gabriellafatec12/API-4-SEMESTRE/blob/4ca73ee9f725c02e6e3a496b393b1487782f8520/README.md)
