@@ -61,7 +61,7 @@ Confira abaixo o Jira Software com cronograma de cada sprint
 - [Slack](https://slack-gt47279.slack.com/archives/C06Q9RQCTTP)
 - [Jira Software](https://datalog3.atlassian.net/jira/software/projects/DSCRUM/boards/2?atlOrigin=eyJpIjoiZjM4OGFmNzJjNGI1NDk1ZDhiZDg4MGFiMTI0ZTJkNTciLCJwIjoiaiJ9)
 - [GitHub](https://github.com/Gabriellafatec12/API-4-SEMESTRE/blob/4ca73ee9f725c02e6e3a496b393b1487782f8520/README.md)
-- [Médoto DEA](
+- [Médoto DEA](https://github.com/Gabriellafatec12/API-4-SEMESTRE/assets/114450758/b60644ed-083c-4006-a129-0892f76cf492)
   
 # Cronograma das Sprints
 
