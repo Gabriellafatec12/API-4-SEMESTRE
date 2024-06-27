@@ -106,7 +106,7 @@ Requisitos não funcionais
 ![sprint backlog](https://github.com/Gabriellafatec12/API-4-SEMESTRE/assets/114450758/4d5465d4-f0ff-44ec-af3a-b14da96725e2)
 
 ## Sprint 4
-![sprint backlog](https://github.com/Gabriellafatec12/API-4-SEMESTRE/assets/114450758/d33d98ba-ffb2-4290-992c-b12e154d7bbb)
+![sprint backlog](https://github.com/Gabriellafatec12/API-4-SEMESTRE/assets/114450758/bf7d2b8c-40d5-4be0-accf-e284733c2178)
 
 
 ## Sprint 1. Desenvolvimento do Projeto
