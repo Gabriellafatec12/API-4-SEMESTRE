@@ -25,7 +25,7 @@ Sprint | Previsão | Status| Histórico|
 |02| 07/05/2024 | concluído |[Ver Relatório](https://fatecspgov-my.sharepoint.com/:b:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre/RELAT%C3%93RIO/Relatorio%20API%204S.pdf?csf=1&web=1&e=WkHkJM) | 
 |03| 28/05/2024 | concluído |[Ver Relatório](https://fatecspgov-my.sharepoint.com/:b:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre/RELAT%C3%93RIO/Relatorio%20API%204S.pdf?csf=1&web=1&e=WkHkJM) | 
 |04| 18/06/2024 | concluído |[Ver Relatório](https://fatecspgov-my.sharepoint.com/:b:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre/RELAT%C3%93RIO/Relatorio%20API%204S.pdf?csf=1&web=1&e=WkHkJM)  | 
-|Feira de Soluções | 27/06/2024 | em andamento |[Ver Relatório](https://fatecspgov-my.sharepoint.com/:b:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre/RELAT%C3%93RIO/Relatorio%20API%204S.pdf?csf=1&web=1&e=WkHkJM) | 
+|Feira de Soluções | 27/06/2024 | concluído |[Ver Relatório](https://fatecspgov-my.sharepoint.com/:b:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre/RELAT%C3%93RIO/Relatorio%20API%204S.pdf?csf=1&web=1&e=WkHkJM) | 
 
 # Objetivo do Projeto
 Este projeto tem como objetivo fazer uma análise do sistema portuário, visando:
@@ -61,7 +61,7 @@ Confira abaixo o Jira Software com cronograma de cada sprint
 - [Slack](https://slack-gt47279.slack.com/archives/C06Q9RQCTTP)
 - [Jira Software](https://datalog3.atlassian.net/jira/software/projects/DSCRUM/boards/2?atlOrigin=eyJpIjoiZjM4OGFmNzJjNGI1NDk1ZDhiZDg4MGFiMTI0ZTJkNTciLCJwIjoiaiJ9)
 - [GitHub](https://github.com/Gabriellafatec12/API-4-SEMESTRE/blob/4ca73ee9f725c02e6e3a496b393b1487782f8520/README.md)
-- [Médoto DEA](https://github.com/Gabriellafatec12/API-4-SEMESTRE/assets/114450758/b60644ed-083c-4006-a129-0892f76cf492)
+- [Médoto DEA](https://fatecspgov-my.sharepoint.com/:x:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/4%20Semestre/M%C3%89TODO%20DEA/An%C3%A1lise%20DEA_DataLog_23_06.xlsx?d=wf1820f05686f4a748b61f9a509a6d988&csf=1&web=1&e=87e6Fm)
   
 # Cronograma das Sprints
 
